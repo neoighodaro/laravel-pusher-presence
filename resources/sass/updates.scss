@@ -1,0 +1,32 @@
+.updates {
+    .bg-purple {
+        background-color: #6f42c1;
+    }
+    .size-32 {
+        width: 32px;
+        height: 32px;
+    }
+    .nav-scroller .nav-link {
+        line-height: 32px;
+        display: inline-block;
+        margin-right: -9px;
+        float: right;
+    }
+    .squished {
+        padding-left: 0;
+        padding-right: 0;
+        &:first-child,
+        &:last-child {
+            margin-right: 15px;
+        }
+    }
+    .avatar {
+        border-radius: 50%;
+        text-indent: 1000px;
+        border-radius: 50%;
+        height: 34px;
+        line-height: 34px;
+        width: 34px;
+        border: 2px solid #fff;
+    }
+}
