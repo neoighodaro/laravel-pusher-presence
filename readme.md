@@ -1,4 +1,4 @@
-# Project Title
+# Laravel Pusher Presence
 
 Working with realtime presence in a Laravel application. [View tutorial](#).
 
