@@ -7,6 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <title>Updaytes | Sign in</title>
+    <meta content="{{ csrf_token() }}" name="csrf-token">
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
     <link rel="stylesheet" href="{{ asset('css/signin.css') }}">
 </head>
