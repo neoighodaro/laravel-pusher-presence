@@ -1,6 +1,6 @@
 # Laravel Pusher Presence
 
-Working with realtime presence in a Laravel application. [View tutorial](#).
+Working with realtime presence in a Laravel application. [View tutorial](https://pusher.com/tutorials/presence-channels-laravel).
 
 ## Getting Started
 
